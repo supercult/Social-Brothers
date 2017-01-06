@@ -22,7 +22,7 @@ p {
 .main {
   background: #ecf0f1;
   width: 100%;
-  min-height: 66vh;
+  min-height: calc(66vh - 16px);
 }
 
 .title {
